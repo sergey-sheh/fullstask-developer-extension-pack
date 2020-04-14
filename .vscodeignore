@@ -1,0 +1,5 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+fullstaskdeveloperextensionpack-0.0.1.vsix

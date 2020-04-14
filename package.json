@@ -1,0 +1,72 @@
+{
+    "name": "fullstaskdeveloperextensionpack",
+    "displayName": "FullstaskDeveloperExtensionPack",
+    "description": "My pack for develop!",
+    "version": "0.0.1",
+    "publisher": "sergey-sheh",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sergey-sheh/fullstask-developer-extension-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-ceintl.vscode-language-pack-ru",
+        
+        "eamodio.gitlens",
+        "codezombiech.gitignore",
+
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+
+        "pranaygp.vscode-css-peek",
+
+        "cssho.vscode-svgviewer",
+
+        "vscode-icons-team.vscode-icons",
+        "wayou.vscode-todo-highlight",
+        "visualstudioexptteam.vscodeintellicode",
+        "esbenp.prettier-vscode",
+        "aaron-bond.better-comments",
+        "alefragnani.project-manager",
+
+        "ms-dotnettools.csharp",
+        "formulahendry.code-runner",
+        "k--kato.docomment",
+        "jchannon.csharpextensions",
+        "kreativ-software.csharpextensions",
+        "fudge.auto-using",
+        "leopotam.csharpfixformat",
+        "craigthomas.supersharp",
+        "adrianwilczynski.csharp-to-typescript",
+        
+        "doggy8088.netcore-snippets",
+        "rahulsahay.csharp-aspnetcore",
+        "adrianwilczynski.asp-net-core-switcher",
+        "formulahendry.dotnet-test-explorer",
+
+        "schneiderpat.aspnet-helper",
+
+        "ms-vscode.powershell",
+
+        "spmeesseman.vscode-taskexplorer",
+        "skrasek.projectmanager",
+        "cnshenj.vscode-task-manager",
+
+        "christian-kohler.npm-intellisense",
+        "pflannery.vscode-versionlens",
+
+        "xabikos.reactsnippets",
+        "qest-cz.react-maker",
+        "ofhumanbondage.react-proptypes-intellisense",
+        "burkeholland.simple-react-snippets",
+
+        "quicktype.quicktype"
+        
+        
+    ]
+}
