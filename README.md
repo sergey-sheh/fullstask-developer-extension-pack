@@ -33,7 +33,6 @@
 * [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 * [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 * [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment)
-* [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
 * [C# Extensions](https://marketplace.visualstudio.com/items?itemName=kreativ-software.csharpextensions)
 * [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=Fudge.auto-using)
 * [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat)

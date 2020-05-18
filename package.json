@@ -37,7 +37,6 @@
         "ms-dotnettools.csharp",
         "formulahendry.code-runner",
         "k--kato.docomment",
-        "jchannon.csharpextensions",
         "kreativ-software.csharpextensions",
         "fudge.auto-using",
         "leopotam.csharpfixformat",
@@ -49,7 +48,6 @@
         "rahulsahay.csharp-aspnetcore",
         "adrianwilczynski.asp-net-core-switcher",
         "formulahendry.dotnet-test-explorer",
-
         "schneiderpat.aspnet-helper",
 
         "ms-vscode.powershell",
